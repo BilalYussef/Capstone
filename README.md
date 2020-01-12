@@ -1,4 +1,4 @@
-# Capstone Project Proposal
+# Project Scope
 
 ### Team Members: 
 Bilal Yussef: https://github.com/BilalYussef
